@@ -1,8 +1,8 @@
 # scrapy_yahoo
 yahoo拍賣熱門商品爬蟲
 
-##下載套件
-###資料夾下：
+## 下載套件
+### 資料夾下：
 ``` 
 pip install -r requirement
 ```
