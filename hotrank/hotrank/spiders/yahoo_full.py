@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
-import _uniout
+# import _uniout
 
 BASE_URL = 'https://tw.buy.yahoo.com'
 
